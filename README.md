@@ -1,8 +1,3 @@
-<figure>
-  <img src="https://user-images.githubusercontent.com/18665370/121807730-a526c500-cc55-11eb-875e-836142ad24b8.png" />
-  <figcaption><p align="center">PixelArt made by <a href="https://www.reddit.com/user/seraphtide">u/seraphtide</a></p></figcaption>
-</figure>
-
 ##### :dart: I use daily:
 ![tech](https://img.shields.io/static/v1?label=&color=000&style=flat-square&message=tech)
 ![javascript](https://img.shields.io/static/v1?color=111&style=flat-square&logoColor=f5f5f5&label=&message=javascript&logo=javascript)
