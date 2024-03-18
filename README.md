@@ -1,11 +1,11 @@
 ### Hey, I'm Bruno <img src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" width="30"/>
 
-A Software Engineer focused on Web Development, specialising in Frontend. Currently living in Cracow, Poland.
+A Software Engineer focused on Web Development, specializing in Frontend. Currently living in Cracow, Poland.
+
+Read more about me on my website: [kawka.me](https://kawka.me)
 
 ##### Fun fact
 [I've won the international Google programming contest](https://medium.com/@brunokawka/my-google-code-in-2018-adventure-with-mifos-initiative-3a65848b0025)
-
-Read more about me on my website: [kawka.me](https://kawka.me)
 
 ##### Contact me
 
