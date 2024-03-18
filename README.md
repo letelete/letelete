@@ -5,6 +5,8 @@ A Software Engineer focused on Web Development, specialising in Frontend. Curren
 ##### Fun fact
 [I've won the international Google programming contest](https://medium.com/@brunokawka/my-google-code-in-2018-adventure-with-mifos-initiative-3a65848b0025)
 
+Read more about me on my website: [kawka.me](https://kawka.me)
+
 ##### Contact me
 
 [![telegram @letelete](https://img.shields.io/static/v1?&color=111&style=flat-square&logoColor=f5f5f5&label=&message=telegram&logo=telegram)](https://t.me/letelete)
