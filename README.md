@@ -1,13 +1,14 @@
-### Hey, I'm Bruno <img src="https://em-content.zobj.net/source/apple/391/unicorn_1f984.png" width="20"/>
+I'm a Frontend Engineer, specializing in creating amazing UI experiences with attention to detail, performance, and accessibility 🦄
 
-A Frontend Engineer, specializing in creating amazing UI experiences with attention to detail, performance, and accessibility.
+**🏆 Fun fact**
 
-Read more about me on my website: [kawka.me](https://kawka.me)
-
-##### Fun fact
 [I've won the international Google programming contest](https://kawka.me/blog/winning-google-code-in-2018)
 
-##### Contact me
+**🌐 Learn more about me**
+
+[kawka.me](https://kawka.me)
+
+**📫 Contact me**
 
 [![telegram @letelete](https://img.shields.io/static/v1?&color=111&style=flat-square&logoColor=f5f5f5&label=&message=telegram&logo=telegram)](https://t.me/letelete)
 [![mail brunokawka@gmail.com](https://img.shields.io/static/v1?&color=111&style=flat-square&logoColor=f5f5f5&label=&message=email&logo=gmail)](mailto:brunokawka@gmail.com)
