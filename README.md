@@ -1,4 +1,4 @@
-### Hey, I'm Bruno <img src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" width="30"/>
+### Hey, I'm Bruno <img src="https://em-content.zobj.net/source/apple/391/unicorn_1f984.png" width="20"/>
 
 A Frontend Engineer, specializing in creating amazing UI experiences with attention to detail, performance, and accessibility.
 
