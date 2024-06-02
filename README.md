@@ -1,14 +1,14 @@
 I'm a Frontend Engineer, specializing in creating amazing UI experiences with attention to detail, performance, and accessibility 🦄
 
-**🔸 Fun fact**
+**◽ Fun fact**
 
 [I've won the international Google programming contest](https://kawka.me/blog/winning-google-code-in-2018)
 
-**🔸 Learn more about me**
+**◽ Learn more about me**
 
 [kawka.me](https://kawka.me)
 
-**🔸 Contact me**
+**◽ Contact me**
 
 [![telegram @letelete](https://img.shields.io/static/v1?&color=111&style=flat-square&logoColor=f5f5f5&label=&message=telegram&logo=telegram)](https://t.me/letelete)
 [![mail brunokawka@gmail.com](https://img.shields.io/static/v1?&color=111&style=flat-square&logoColor=f5f5f5&label=&message=email&logo=gmail)](mailto:brunokawka@gmail.com)
