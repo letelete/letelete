@@ -27,7 +27,7 @@ I'm a Frontend Engineer, specializing in creating amazing UI experiences with at
 [![GitHub Streak](https://streak-stats.demolab.com/?user=letelete&theme=transparent&hide_border=true&date_format=M%20j[,%20Y]&card_width=1080&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&background=45%2CEB7C00%2CEBCC0A&border_radius=12)](https://kawka.me)
 -->
 
-[![user:8997321's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/8997321?theme=graywhite&website=true&location=true)]([https://github.com/johannchopin/stackoverflow-readme-profile](https://stackoverflow.com/users/8997321/bruno-kawka))
+[![user:8997321's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/8997321?theme=default&website=true&location=true)](https://stackoverflow.com/users/8997321/bruno-kawka)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=letelete&theme=transparent&hide_border=true&date_format=M%20j[,%20Y]&card_width=1080&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=000000&border_radius=12)](https://kawka.me)
