@@ -1,4 +1,4 @@
-I'm a Frontend Engineer, specializing in creating amazing UI experiences with attention to detail, performance, and accessibility.
+I'm a Software Engineer, specializing in creating amazing UI experiences with attention to detail, performance, and accessibility.
 
 **◽ Fun fact**
 
