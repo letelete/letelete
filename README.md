@@ -1,4 +1,4 @@
-I'm a Software Engineer, specializing in creating amazing UI experiences with attention to detail, performance, and accessibility.
+I'm a Software Engineer, specializing in creating amazing UI experiences with attention to detail, performance, and accessibility. ![](https://komarev.com/ghpvc/?username=letelete&abbreviated=true&style=pixel)
 
 **◽ Fun fact**
 
