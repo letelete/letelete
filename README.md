@@ -4,7 +4,7 @@
 
 <p align="center" dir="auto">
  <sub>
-  Currently a Software Engineer @ Google; formerly Senior UI Engineer at upsidelab.io.
+  Currently a Software Engineer @ Google; formerly Senior UI Engineer @ upsidelab.io.
  </sub>
 </p>
 
