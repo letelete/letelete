@@ -1,10 +1,8 @@
-<p align="center" dir="auto">
- I specialize in creating digital products with a strong focus on detail, performance, motion design, and accessibility.
-</p>
+I specialize in creating digital products with a strong focus on detail, performance, motion design, and accessibility.
 
-<p align="center" dir="auto">
+<p>
  <sub>
-  Currently a Software Engineer @ Google; formerly Senior UI Engineer @ upsidelab.io.
+  Currently a Software Engineer @ <i>Google</i>; formerly Senior UI Engineer @ <i>upsidelab.io</i>
  </sub>
 </p>
 
